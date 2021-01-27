@@ -7,11 +7,11 @@ I am a Full Stack Software Engineer who values compassion, communication, collab
 </div>
 
 <div>
-Languages: JavaScript, HTML/CSS </ br>
-Frameworks/Libraries: React, Node, Express </ br>
-Databases: PostgreSQL </ br>
-Testing: Jest, QUnit, Supertest </ br>
-Tools: Git, GitHub, Heroku, Miro, Netlify, pgAdmin, Postman, Slack, VSCode, Whimsical </ br>
+    <p>Languages: JavaScript, HTML/CSS</p>
+    <p>Frameworks/Libraries: React, Node, Express</p>
+    <p>Databases: PostgreSQL</p>
+    <p>Testing: Jest, QUnit, Supertest</p>
+    <p>Tools: Git, GitHub, Heroku, Miro, Netlify, pgAdmin, Postman, Slack, VSCode, Whimsical</p>
 </div>
 
 <!--
