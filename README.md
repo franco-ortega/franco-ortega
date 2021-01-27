@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my GitHub profile.
+
+I am a Full Stack Software Engineer who values compassion, communication, collaboration, creativity, and curiosity, and alliteration. All joking aside, I love the puzzle and problem-solving aspects of coding. I'm a people person who enjoys teamwork and healthy competition. And while math and science were my favorite subjects growing up, I have learned to very much appreciate and foster my creative side. Work-life balance is imporant to me as well. Some of my favorite activities include bouldering, fantasy cartography, yoga, roleplaying and board games, attending art events, biking around the city with friends, and potlucks.
+
+Languages: JavaScript, HTML/CSS
+Frameworks/Libraries: React, Node, Express
+Databases: PostgreSQL
+Testing: Jest, QUnit, Supertest
+Tools: Git, GitHub, Heroku, Miro, Netlify, pgAdmin, Postman, Slack, VSCode, Whimsical
 
 <!--
 **franco-ortega/franco-ortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
