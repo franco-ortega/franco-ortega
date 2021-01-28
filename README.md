@@ -1,5 +1,5 @@
 <div>
-    <h2 align="center"> Welcome to my GitHub profile! </h2>
+    <h2 align="center"> Welcome to my GitHub! </h2>
 </div>
   
 <p>
