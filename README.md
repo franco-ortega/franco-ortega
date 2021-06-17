@@ -4,7 +4,7 @@
 </div>
   
 <p>
-Compassion, communication, creativity, collaboration, and curiosity are qualities that I value dearly and strive to continuously improve. Optimism guides my efforts while practicality ensures that my goals are brought to fruition. Doing work that improves the lives of others brings me great joy.
+Compassion, communication, creativity, collaboration, and curiosity are qualities that I value dearly and strive to continuously improve. Optimism guides my efforts while practicality ensures that my goals are brought to fruition. Helping to improve the lives of others brings me great joy.
 </p>
 
 <div>
