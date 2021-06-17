@@ -8,12 +8,12 @@ Compassion, communication, creativity, collaboration, and curiosity are qualitie
 </p>
 
 <div>
-    <p>Languages: JavaScript, SQL, HTML, CSS</p>
-    <p>Front End: React, Redux</p>
-    <p>Back End: Node, Express</p>
-    <p>Databases: PostgreSQL</p>
-    <p>Testing: Jest, QUnit, React Testing Library, Supertest</p>
-    <p>Tools: Git, GitHub, Heroku, Miro, Netlify, pgAdmin, Postman, Slack, VSCode, Whimsical, Zoom</p>
+    <p><u>Languages:</u> JavaScript, SQL, HTML, CSS</p>
+    <p><u>Front End:</u> React, Redux</p>
+    <p><u>Back End:</u> Node, Express</p>
+    <p><u>Databases:</u> PostgreSQL</p>
+    <p><u>Testing:</u> Jest, QUnit, React Testing Library, Supertest</p>
+    <p><u>Tools/Services:</u> Git, GitHub, Heroku, Netlify, pgAdmin, Postman, VSCode; Asana, Figma, Miro, Trello, Whimsical; Slack, Zoom</p>
 </div>
 
 <p>
@@ -23,7 +23,7 @@ Compassion, communication, creativity, collaboration, and curiosity are qualitie
 Additionally, despite being a math and science kid, I have learned to appreciate and nurture my creative side through writing, cartography, and designing boardgames. I also enjoy bouldering, getting around on bike, and attending art events.
 </p>
 <p>
-Yes to social justice, climate justice, and economic justice.
+Yes to racial justice, social justice, climate justice, and economic justice.
 </p>
 
 <!--
