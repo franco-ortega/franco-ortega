@@ -25,6 +25,9 @@ Additionally, despite being a math and science kid, I have learned to appreciate
 <p>
 Yes to racial justice, social justice, climate justice, and economic justice.
 </p>
+<p>
+    Visit my portfolio site here - https://francoortega.com/
+</p>
 
 <!--
 **franco-ortega/franco-ortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
