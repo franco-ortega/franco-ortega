@@ -8,8 +8,8 @@ Compassion, communication, creativity, collaboration, and curiosity are qualitie
 </p>
 
 <div>
-    <p>Languages: JavaScript, SQL, HTML, CSS</p>
-    <p>Front End: React, Redux</p>
+    <p>Languages: JavaScript / TypeScript, SQL, HTML, CSS</p>
+    <p>Front End: React, Redux, Sass</p>
     <p>Back End: Node, Express</p>
     <p>Databases: PostgreSQL</p>
     <p>Testing: Jest, QUnit, React Testing Library, Supertest</p>
