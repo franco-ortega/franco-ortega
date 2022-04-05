@@ -9,11 +9,11 @@ Compassion, communication, creativity, collaboration, and curiosity are qualitie
 
 <div>
     <p>Languages: JavaScript / TypeScript, SQL, HTML, CSS</p>
-    <p>Front End: React, Redux, Sass</p>
-    <p>Back End: Node, Express</p>
-    <p>Databases: PostgreSQL</p>
+    <p>Front End: React, Redux, Sass, NextJS</p>
+    <p>Back End: Node, Express, GraphQL</p>
+    <p>Databases: PostgreSQL, Mongo, Airtable</p>
     <p>Testing: Jest, QUnit, React Testing Library, Supertest</p>
-    <p>Tools/Services:</u> Git, GitHub, Heroku, Netlify, pgAdmin, Postman, VSCode, Asana, Figma, Miro, Trello, Whimsical, Slack, Zoom</p>
+    <p>Tools/Services:</u> Git, GitHub, Heroku, Netlify, pgAdmin, Postman, Zapier, VSCode, Asana, Figma, Miro, Trello, Whimsical, Slack, Zoom</p>
 </div>
 
 <p>
