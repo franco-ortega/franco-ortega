@@ -4,27 +4,25 @@
 </div>
   
 <p>
-Compassion, communication, creativity, collaboration, and curiosity are qualities that I value dearly and strive to continuously improve. Optimism guides my efforts while practicality ensures that my goals are brought to fruition. Helping to improve the lives of others brings me great joy.
+I am a frontend-leaning engineer who loves to create intuitive interfaces supported by proper guidance. I appreciate well-documented and efficient processes that offer structure and flexibility. I value clear and kind communication, creativity, diversity, and supportive environments that nurture growth. Optimism guides my efforts while practicality ensures that my goals are brought to fruition. Helping others brings me great joy.
 </p>
 
-<div>
-    <p>Languages: JavaScript / TypeScript, SQL, HTML, CSS</p>
-    <p>Front End: React, Redux, Sass, NextJS</p>
-    <p>Back End: Node, Express, GraphQL</p>
-    <p>Databases: PostgreSQL, Mongo, Airtable</p>
-    <p>Testing: Jest, QUnit, React Testing Library, Supertest</p>
-    <p>Tools/Services:</u> Git, GitHub, Heroku, Netlify, pgAdmin, Postman, Zapier, VSCode, Asana, Figma, Miro, Trello, Whimsical, Slack, Zoom</p>
-</div>
+<p>
+Tech and Tools: JavaScript, HTML/CSS, React, Redux, Sass, NextJS, Node, Express, GraphQL, Mongo, Compass, PostgreSQL, pgAdmin, Airtable, Jest, QUnit, React Testing Library, Supertest, Git, GitHub, Heroku, Netlify, Postman, VSCode, Figma, Storybook, Zapier, Asana, Hive, Jira, Miro, Trello, Whimsical, Slack, Zoom
+</p>
 
 <p>
-    Adaptability, empathy, and patience are strengths that have served me well across multiple fields from publishing to education to transportation. I have applied these to brainstorming, problem solving, and maintaining forward momentum even as circumstances change unexpectedly. Furthermore, my professional experience has put me in constant contact with people of all ages and from many walks of life. This has given me tremendous opportunity to grow as a communicator, listener, and mediator. I look forward to using these strengths and experiences to enhance my contributions as a member of a software development team for a company that values the well-being of its workers and cares about its impact.
+Adaptability, empathy, and patience are strengths that have served me well across multiple fields. I have applied these to brainstorming, problem solving, and maintaining forward momentum even as circumstances change unexpectedly. Furthermore, my professional experience has put me in contact with people of all ages and from many walks of life. This has given me tremendous opportunity to grow as a communicator, listener, and mediator. I use these strengths and learnings to enhance my contributions as a team member.
 </p>
+
 <p>
-Additionally, despite being a math and science kid, I have learned to appreciate and nurture my creative side through writing, cartography, and designing boardgames. I also enjoy bouldering, getting around on bike, and attending art events.
+Additionally, I enjoy writing, cartography, board games, bouldering, biking, and art shows.
 </p>
+
 <p>
 Yes to racial justice, social justice, climate justice, and economic justice.
 </p>
+
 <p>
     Visit my portfolio site here - https://francoortega.com/
 </p>
