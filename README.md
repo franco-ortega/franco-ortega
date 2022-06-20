@@ -4,11 +4,31 @@
 </div>
   
 <p>
-I am a frontend-leaning engineer who loves to create intuitive interfaces supported by proper guidance. I appreciate well-documented and efficient processes that offer structure and flexibility. I value clear and kind communication, creativity, diversity, and supportive environments that nurture growth. Optimism guides my efforts while practicality ensures that my goals are brought to fruition. Helping others brings me great joy.
+Helping others brings me great joy, and I am very grateful for being able to accomplish this as a software engineer. The puzzle and problem-solving aspects of code spark my curiosity and creative juices. Doing challenging work that is engaging and rewarding keeps me motivated and performing at my best.
 </p>
 
 <p>
-Tech and Tools: JavaScript, HTML/CSS, React, Redux, Sass, NextJS, Node, Express, GraphQL, Mongo, Compass, PostgreSQL, pgAdmin, Airtable, Jest, QUnit, React Testing Library, Supertest, Git, GitHub, Heroku, Netlify, Postman, VSCode, Figma, Storybook, Zapier, Asana, Hive, Jira, Miro, Trello, Whimsical, Slack, Zoom
+I love building products that provide a positive impact. To me this includes keeping in mind the user perspective in order to create intuitive interfaces that are supported by proper guidance and robust architecture.
+</p>
+
+
+<p>
+I appreciate agile development with well-documented and efficient processes that offer both structure and flexibility.
+</p>
+
+
+<p>
+I value clear & kind communication, creativity, cross-functional collaboration, and supportive environments that foster diversity & nurture growth.
+</p>
+
+
+<p>
+Optimism guides my efforts while practicality ensures that my goals are brought to fruition.
+</p>
+
+<p>
+<u>Tech & Tools</u><br />
+JavaScript, HTML, CSS, React, Redux, Sass, NextJS, Node, Express, GraphQL, Mongo, Compass, PostgreSQL, pgAdmin, Airtable, Jest, QUnit, React Testing Library, Supertest, Git, GitHub, Heroku, Netlify, Postman, Zapier, VSCode, Figma, Miro, Storybook, Asana, Hive, Jira, Trello, Whimsical, Slack, Zoom
 </p>
 
 <p>
@@ -16,7 +36,7 @@ Adaptability, empathy, and patience are strengths that have served me well acros
 </p>
 
 <p>
-Additionally, I enjoy writing, cartography, board games, bouldering, biking, and art shows.
+Outside of coding, I enjoy writing, cartography, board games, bouldering, bike rides, and art shows.
 </p>
 
 <p>
@@ -29,15 +49,3 @@ Yes to racial justice, social justice, climate justice, and economic justice.
 
 <!--
 **franco-ortega/franco-ortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
