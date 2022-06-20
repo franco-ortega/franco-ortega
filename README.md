@@ -32,10 +32,6 @@ JavaScript, HTML, CSS, React, Redux, Sass, NextJS, Node, Express, GraphQL, Mongo
 </p>
 
 <p>
-Adaptability, empathy, and patience are strengths that have served me well across multiple fields. I have applied these to brainstorming, problem solving, and maintaining forward momentum even as circumstances change unexpectedly. Furthermore, my professional experience has put me in contact with people of all ages and from many walks of life. This has given me tremendous opportunity to grow as a communicator, listener, and mediator. I use these strengths and learnings to enhance my contributions as a team member.
-</p>
-
-<p>
 Outside of coding, I enjoy writing, cartography, board games, bouldering, bike rides, and art shows.
 </p>
 
