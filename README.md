@@ -27,7 +27,7 @@ Optimism guides my efforts while practicality ensures that my goals are brought 
 </p>
 
 <p>
-**Tech & Tools**<br />
+<strong>Tech & Tools</strong><br />
 JavaScript, HTML, CSS, React, Redux, Sass, NextJS, Node, Express, GraphQL, Mongo, Compass, PostgreSQL, pgAdmin, Airtable, Jest, QUnit, React Testing Library, Supertest, Git, GitHub, Heroku, Netlify, Postman, Zapier, VSCode, Figma, Miro, Storybook, Asana, Hive, Jira, Trello, Whimsical, Slack, Zoom
 </p>
 
