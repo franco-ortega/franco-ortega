@@ -8,8 +8,8 @@ I'm a software engineer who loves to create intuitive interfaces and build out f
 </p>
 
 <p>
+    <strong>Tech & Tools</strong>
     <ul>
-        <strong>Tech & Tools</strong>
         <li>JavaScript / TypeScript, HTML / CSS, React, Redux, Sass, NextJS</li>
         <li>Node, Express, GraphQL, Mongo, Compass, PostgreSQL, pgAdmin, Airtable</li>
         <li>Figma, Miro, Storybook</li>
