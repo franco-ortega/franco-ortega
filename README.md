@@ -7,7 +7,7 @@
 I'm a software engineer who loves to create intuitive interfaces and build out features across the stack. I appreciate well-documented and efficient processes that offer structure and flexibility. I value clear and kind communication, creativity, cross-functional collaboration, and supportive environments that foster diversity and nurture growth. Optimism guides my efforts while practicality ensures that my goals are brought to fruition.
 </p>
 
-
+<p>
     <ul>
         <strong>Tech & Tools</strong>
         <li>JavaScript / TypeScript, HTML / CSS, React, Redux, Sass, NextJS</li>
@@ -17,7 +17,7 @@ I'm a software engineer who loves to create intuitive interfaces and build out f
         <li>Git, GitHub, Heroku, Netlify, Postman, Zapier</li>
         <li>JIRA, Asana, Hive, Trello, Whimsical, Slack, Zoom</li>
     </ul>
-
+</p>
 
 <p>
 Outside of coding, I enjoy writing, cartography, board games, bouldering, bike rides, and art shows.
