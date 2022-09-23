@@ -9,7 +9,14 @@ I'm a software engineer who loves to create intuitive interfaces and build out f
 
 <p>
 <strong>Tech & Tools</strong><br />
-JavaScript / TypeScript, HTML / CSS, React, Redux, Sass, NextJS, Node, Express, GraphQL, Mongo, Compass, PostgreSQL, pgAdmin, Airtable, Jest, QUnit, React Testing Library, Supertest, Git, GitHub, Heroku, Netlify, Postman, Zapier, VSCode, Figma, Miro, Storybook, JIRA, Asana, Hive, Trello, Whimsical, Slack, Zoom
+    <ul>
+        <li>JavaScript / TypeScript, HTML / CSS, React, Redux, Sass, NextJS</li>
+        <li>Node, Express, GraphQL, Mongo, Compass, PostgreSQL, pgAdmin, Airtable</li>
+        <li>Figma, Miro, Storybook</li>
+        <li>Jest, QUnit, React Testing Library, Supertest</li>
+        <li>Git, GitHub, Heroku, Netlify, Postman, Zapier</li>
+        <li>JIRA, Asana, Hive, Trello, Whimsical, Slack, Zoom</li>
+    </ul>
 </p>
 
 <p>
