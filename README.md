@@ -4,31 +4,12 @@
 </div>
   
 <p>
-Helping others brings me great joy, and I am very grateful for being able to accomplish this as a software engineer. The puzzle and problem-solving aspects of code spark my curiosity and creative juices. Doing challenging work that is engaging and rewarding keeps me motivated and performing at my best.
-</p>
-
-<p>
-I love building products that provide a positive impact. To me this includes keeping in mind the user perspective in order to create intuitive interfaces that are supported by proper guidance and robust architecture.
-</p>
-
-
-<p>
-I appreciate agile development with well-documented and efficient processes that offer both structure and flexibility.
-</p>
-
-
-<p>
-I value clear & kind communication, creativity, cross-functional collaboration, and supportive environments that foster diversity & nurture growth.
-</p>
-
-
-<p>
-Optimism guides my efforts while practicality ensures that my goals are brought to fruition.
+I'm a software engineer who loves to create intuitive interfaces and build out features across the stack. I appreciate well-documented and efficient processes that offer structure and flexibility. I value clear and kind communication, creativity, cross-functional collaboration, and supportive environments that foster diversity and nurture growth. Optimism guides my efforts while practicality ensures that my goals are brought to fruition.
 </p>
 
 <p>
 <strong>Tech & Tools</strong><br />
-JavaScript, HTML, CSS, React, Redux, Sass, NextJS, Node, Express, GraphQL, Mongo, Compass, PostgreSQL, pgAdmin, Airtable, Jest, QUnit, React Testing Library, Supertest, Git, GitHub, Heroku, Netlify, Postman, Zapier, VSCode, Figma, Miro, Storybook, Asana, Hive, Jira, Trello, Whimsical, Slack, Zoom
+JavaScript / TypeScript, HTML / CSS, React, Redux, Sass, NextJS, Node, Express, GraphQL, Mongo, Compass, PostgreSQL, pgAdmin, Airtable, Jest, QUnit, React Testing Library, Supertest, Git, GitHub, Heroku, Netlify, Postman, Zapier, VSCode, Figma, Miro, Storybook, JIRA, Asana, Hive, Trello, Whimsical, Slack, Zoom
 </p>
 
 <p>
