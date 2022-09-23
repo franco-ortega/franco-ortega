@@ -20,7 +20,7 @@ I'm a software engineer who loves to create intuitive interfaces and build out f
 </p>
 
 <p>
-Outside of coding, I enjoy writing, cartography, board games, bouldering, bike rides, and art shows.
+In addition to coding, I enjoy writing, cartography, board games, bouldering, bike rides, and art shows.
 </p>
 
 <p>
