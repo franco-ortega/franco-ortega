@@ -4,18 +4,17 @@
 </div>
   
 <p>
-I'm a software engineer who loves to create intuitive interfaces and build out features across the stack. I appreciate well-documented and efficient processes that offer structure and flexibility. I value clear and kind communication, creativity, cross-functional collaboration, and supportive environments that foster diversity and nurture growth. Optimism guides my efforts while practicality ensures that my goals are brought to fruition.
+Diligent and empathetic software engineer with excellent communication skills who thrives in collaborative, agile environments and loves to create user-focused, high-quality products. Experienced in building internal tools, improving existing systems, developing new features, writing documentation, and debugging issues across the stack in business applications. Guided by optimism to dream big and balanced with practicality to ensure goals are brought to fruition.
 </p>
 
 <p>
     <strong>Tech & Tools</strong>
     <ul>
-        <li>JavaScript / TypeScript, HTML / CSS, React, Redux, Sass, NextJS</li>
-        <li>Node, Express, GraphQL, Mongo, Compass, PostgreSQL, pgAdmin, Airtable</li>
-        <li>Figma, Miro, Storybook</li>
-        <li>Jest, QUnit, React Testing Library, Supertest</li>
-        <li>Git, GitHub, Heroku, Netlify, Postman, Zapier</li>
-        <li>JIRA, Asana, Hive, Trello, Whimsical, Slack, Zoom</li>
+        <li>Tech: JavaScript, React, NextJS, CSS, Sass, HTML, Node, Express, GraphQL</li>
+        <li>Databases: MongoDB, PostgreSQL, Airtable</li>
+        <li>Tools: Git, Postman, Compass, Figma, JIRA, pgAdmin, Storybook, Zapier</li>
+        <li>Services: GitHub, Heroku, Netlify, Vercel, AWS</li>
+        <li>Testing: Jest, QUnit, Supertest, React Testing Library</li>
     </ul>
 </p>
 
