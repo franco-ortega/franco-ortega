@@ -4,7 +4,7 @@
 </div>
   
 <p>
-Diligent and empathetic software engineer with excellent communication skills who thrives in collaborative, agile environments and loves to create user-focused, high-quality products. Experienced in building internal tools, improving existing systems, developing new features, writing documentation, and debugging issues across the stack in business applications. Guided by optimism to dream big and balanced with practicality to ensure goals are brought to fruition.
+Detail-oriented software engineer who is passionate about creating user-focused products, and excels in collaborative and agile environments. Experienced in developing new features, enhancing existing systems, building internal tools, writing comprehensive documentation, and effectively debugging issues within business applications. Approaches work with optimism and strives to think big while remaining grounded in practicality, ensuring that goals are successfully achieved.
 </p>
 
 <p>
