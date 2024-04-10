@@ -4,7 +4,7 @@
 </div>
   
 <p>
-Detail-oriented software engineer who is passionate about creating user-focused products, and excels in collaborative and agile environments. Experienced in developing new features, enhancing existing systems, building internal tools, writing comprehensive documentation, and effectively debugging issues within business applications. Approaches work with optimism and strives to think big while remaining grounded in practicality, ensuring that goals are successfully achieved.
+Detail-oriented software engineer with a passion for creating user-focused products. Thrives in collaborative, cross-functional, agile environments. Adept at developing innovative features, improving existing systems, creating efficient internal tools, and debugging issues within business applications. Approaches work optimistically to think big while balancing practicality to consistently achieve goals.
 </p>
 
 <p>
