@@ -1,6 +1,6 @@
 <div>
     <h1 align="center">Franco Ortega</h1>
-    <h2 align="center">Full Stack Software Engineer</h2>
+    <h2 align="center">Software Engineer</h2>
 </div>
   
 <p>
