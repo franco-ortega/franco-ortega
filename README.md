@@ -11,7 +11,7 @@ Detail-oriented software engineer with a passion for creating user-focused produ
     <strong>Tech & Tools</strong>
     <ul>
         <li>Tech: JavaScript, React, NextJS, CSS, Sass, HTML, TypeScript, Node, Express, GraphQL</li>
-        <li>Databases: MongoDB, PostgreSQL, Airtable</li>
+        <li>Databases: MongoDB, PostgreSQL, Prisma, Airtable</li>
         <li>Tools: Git, Postman, Compass, Figma, JIRA, pgAdmin, Storybook, Zapier</li>
         <li>Services: GitHub, Heroku, Netlify, Vercel, AWS</li>
         <li>Testing: Jest, QUnit, Supertest, React Testing Library</li>
