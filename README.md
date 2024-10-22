@@ -27,7 +27,7 @@ Yes to racial justice, social justice, climate justice, and economic justice.
 </p>
 
 <p>
-    Visit my portfolio site here - https://francoortega.com/
+    Visit my portfolio site to learn more about me and my projects - https://francoortega.com/
 </p>
 
 <!--
